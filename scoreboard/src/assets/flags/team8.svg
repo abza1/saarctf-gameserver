@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 513 342">
+    <!-- Pattern of overlapped circles -->
+    <!-- Norway Colors -->
+    <circle cx="114" cy="171" r="114" fill="#ef2b2d" />
+    <circle cx="114" cy="171" r="76" fill="#002868" />
+
+    <!-- Denmark Colors -->
+    <circle cx="256.5" cy="171" r="114" fill="#c60c30" opacity="0.6"/>
+
+    <!-- Estonia Colors -->
+    <circle cx="399" cy="171" r="114" fill="#003580" opacity="0.6"/>
+    <circle cx="399" cy="171" r="76" fill="#49648d" opacity="0.6"/>
+</svg>

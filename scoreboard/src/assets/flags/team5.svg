@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 513 342">
+    <!-- Pattern of vertical bars -->
+    <!-- Norway Colors -->
+    <rect width="57" height="342" fill="#ef2b2d" />
+    <rect x="57" width="57" height="342" fill="#fff" />
+    <rect x="114" width="57" height="342" fill="#002868" />
+
+    <!-- Denmark Colors -->
+    <rect x="171" width="57" height="342" fill="#c60c30" />
+    <rect x="228" width="57" height="342" fill="#fff" />
+    <rect x="285" width="57" height="342" fill="#c60c30" />
+
+    <!-- Estonia Colors -->
+    <rect x="342" width="57" height="342" fill="#003580" />
+    <rect x="399" width="57" height="342" fill="#fff" />
+    <rect x="456" width="57" height="342" fill="#49648d" />
+</svg>

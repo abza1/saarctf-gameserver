@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 513 342">
+    <!-- Squares for Norway -->
+    <rect width="128" height="85" fill="#ef2b2d" />
+    <rect y="85" width="128" height="85" fill="#fff" />
+    <rect y="170" width="128" height="85" fill="#002868" />
+
+    <!-- Squares for Denmark -->
+    <rect y="255" width="128" height="85" fill="#c60c30" />
+    <rect x="128" width="128" height="85" fill="#fff" />
+    <rect x="128" y="85" width="128" height="85" fill="#c60c30" />
+
+    <!-- Squares for Estonia -->
+    <rect x="128" y="170" width="128" height="85" fill="#003580" />
+    <rect x="128" y="255" width="128" height="85" fill="#fff" />
+    <rect x="256" width="128" height="85" fill="#49648d" />
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 513 342">
+    <!-- Pattern of triangles -->
+    <!-- Norway Colors -->
+    <polygon points="0,0 171,114 0,228" fill="#ef2b2d" />
+    <polygon points="171,114 342,228 171,342" fill="#002868" />
+    <polygon points="342,228 513,342 342,114" fill="#002868" />
+
+    <!-- Denmark Colors -->
+    <polygon points="0,114 171,228 0,342" fill="#49648d" />
+    <polygon points="171,0 342,114 171,228" fill="#c60c30" />
+    <polygon points="342,114 513,228 342,0" fill="#c60c30" />
+
+    <!-- Estonia Colors -->
+    <polygon points="0,228 171,342 0,114" fill="#c60c30" />
+    <polygon points="171,228 342,342 171,114" fill="#ef2b2d" />
+    <polygon points="342,0 513,114 342,228" fill="#49648d" />
+</svg>

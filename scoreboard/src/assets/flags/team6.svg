@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 513 342">
+    <!-- Pattern of horizontal stripes -->
+    <!-- Norway Colors -->
+    <rect width="513" height="38" fill="#ef2b2d" />
+    <rect y="38" width="513" height="38" fill="#fff" />
+    <rect y="76" width="513" height="38" fill="#002868" />
+
+    <!-- Denmark Colors -->
+    <rect y="114" width="513" height="38" fill="#c60c30" />
+    <rect y="152" width="513" height="38" fill="#fff" />
+    <rect y="190" width="513" height="38" fill="#c60c30" />
+
+    <!-- Estonia Colors -->
+    <rect y="228" width="513" height="38" fill="#003580" />
+    <rect y="266" width="513" height="38" fill="#fff" />
+    <rect y="304" width="513" height="38" fill="#49648d" />
+</svg>

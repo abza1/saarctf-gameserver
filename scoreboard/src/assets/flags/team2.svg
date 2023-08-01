@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 513 342">
+    <!-- Pattern of diagonal stripes -->
+    <!-- Norway Colors -->
+    <polygon points="0,0 171,0 342,171 171,171" fill="#ef2b2d" />
+    <polygon points="0,171 171,171 342,342 171,342" fill="#002868" />
+
+    <!-- Denmark Colors -->
+    <polygon points="171,0 342,0 513,171 342,171" fill="#c60c30" />
+    <polygon points="171,171 342,171 513,342 342,342" fill="#c60c30" />
+
+    <!-- Estonia Colors -->
+    <polygon points="342,0 513,0 513,171" fill="#003580" />
+    <polygon points="342,171 513,171 513,342" fill="#49648d" />
+</svg>
